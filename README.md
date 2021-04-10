@@ -1,6 +1,6 @@
 - 👋 嗨，我是@ niuniu-niu
-- 👀 I’m interested in java
-- 🌱 I’m currently learning java
+- 👀 我对Java感兴趣
+- 🌱 我目前正在学习Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 My email:niuniu_6_6@163.com
 
