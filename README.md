@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @niuniu-niu
+- 👋 嗨，我是@ niuniu-niu
 - 👀 I’m interested in java
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on ...
